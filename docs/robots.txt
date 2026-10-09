@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://globa-me.github.io/beep-source/sitemap.xml

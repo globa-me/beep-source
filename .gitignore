@@ -1,0 +1,11 @@
+.build/
+.DS_Store
+*.app/
+*.zip
+*.dmg
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
+.env
+history*.json
